@@ -1,0 +1,12 @@
+MERN
+MongoDB: NOSQL database
+Express: framework for building apis
+React: fontend library
+Node.js: js runtime evironment
+
+Also using reactstrap to import bootstrap components as react components
+aslo using react transision group 
+Should how to use heroku cli and delopy with git 
+
+He has a Udemy course for $10
+
